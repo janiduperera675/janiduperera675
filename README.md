@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janiduperera675&label=Profile%20views&color=0e75b6&style=flat" alt="janiduperera675" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janiduperera675" alt="janiduperera675" /></a> </p>
+
 
 - 📫 How to reach me **janiduperera762@gmail.com**
 
