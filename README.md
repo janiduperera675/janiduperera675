@@ -1,4 +1,5 @@
 <h1>Hi 👋, I'm Janidu Perera</h1>
+<a target="_blank" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="display: inline-block;">
 <p>A Software Engineer currently studying at NIBM University Srilanka
 </p>
 <h2>🚀 Languages and Tools I Use</h2>
