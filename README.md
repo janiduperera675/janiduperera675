@@ -1,8 +1,8 @@
   <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
-    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
+    Hello there! I'm Janidu</a></b>.
+    <br>I'm a Software Engineering Student At NIBM University Sri-lanka.<br>
 </samp>
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
 </p>
