@@ -11,9 +11,9 @@
 <samp>
  <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200">
-<p>Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra’s shortest path visualizer.</a></p>
+
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/janiduperera/">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
   &nbsp; 
   &nbsp;
@@ -30,6 +30,3 @@
 </p> 
 </samp>
 </details>
-<hr>
-<p>Credits: <a href="https://github.com/TanZng">TanZng</a></p>
-<p>Last Edited on: 31/08/2020</p> 
