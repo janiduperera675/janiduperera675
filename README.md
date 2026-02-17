@@ -1,4 +1,5 @@
 <h1>Hi 👋, I'm Janidu Perera</h1>
+<p><img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt=""></p>
 
 <p>A Software Engineer currently studying at NIBM University Srilanka
 </p>
