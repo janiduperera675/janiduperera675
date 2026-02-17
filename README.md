@@ -29,3 +29,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Janidu Perera&" alt="Janidu Perera" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Janidu Perera&show_icons=true&locale=en&layout=compact" alt="Janidu Perera" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Janidu Perera" alt="Janidu Perera" /></a></p>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats">
+</p>
