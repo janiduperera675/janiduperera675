@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24">
+  <defs>
+    <linearGradient id="neon" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="600" y2="0" spreadMethod="repeat">
+      <stop offset="0" stop-color="#00f0ff"/>
+      <stop offset="0.25" stop-color="#7a5cff"/>
+      <stop offset="0.5" stop-color="#ff2bd6"/>
+      <stop offset="0.75" stop-color="#39ff14"/>
+      <stop offset="1" stop-color="#00f0ff"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;600 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glow" x="-5%" y="-300%" width="110%" height="700%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="10" y="9" width="1180" height="6" rx="3" fill="url(#neon)" filter="url(#glow)"/>
+  <circle r="5" cy="12" fill="#fff" filter="url(#glow)">
+    <animate attributeName="cx" values="10;1190;10" dur="6s" repeatCount="indefinite"/>
+  </circle>
+</svg>
